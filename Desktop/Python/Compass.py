@@ -204,4 +204,6 @@ for x,y in zip(codice_tabella, descrizione):
 	
 file.close()
 
-print "codici tabella compass.txt created successfully"
+print "codici tabella compass.txt created successfully\n"
+
+raw_input("Press Enter to exit!")
